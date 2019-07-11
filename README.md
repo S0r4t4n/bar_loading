@@ -1,10 +1,10 @@
-<img src = "https://user-images.githubusercontent.com/8677536/60679895-34e96380-9ec4-11e9-9da3-584549e7d6af.png" align = "right" height = "200px" />  
+<img src = "https://user-images.githubusercontent.com/8677536/60679895-34e96380-9ec4-11e9-9da3-584549e7d6af.png" align = "right" height = "180px" />  
   
 # bar_loading
   
  no image loading screen.  
    
- but probably gif animation loading is faster than it.  
+ but probably gif animation loading is faster than this.  
    
  change color,change speed,as u wish :D  
    
