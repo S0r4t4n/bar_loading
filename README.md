@@ -80,5 +80,4 @@ body{
 ```
 ## License
 ___UNLICENSE___  
-__As u wish :D__
 
