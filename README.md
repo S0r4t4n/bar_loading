@@ -4,10 +4,6 @@
   
  no image loading screen.  
    
- but probably gif animation loading is faster than this.  
-   
- change color,change speed,as u wish :D  
-   
 ## Demo  
 <img src="https://user-images.githubusercontent.com/8677536/60984090-0fea6a00-a376-11e9-8652-11211391cc24.gif"> 
  
